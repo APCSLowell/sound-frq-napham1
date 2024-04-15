@@ -52,5 +52,6 @@ public class Sound
       }
       index++;
     }
+    samples = ans;
   }
 }
